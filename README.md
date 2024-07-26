@@ -9,6 +9,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0053-maximum-subarray) |
+| [0219-contains-duplicate-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0219-contains-duplicate-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1020-longest-turbulent-subarray) |
 ## Divide and Conquer
@@ -33,5 +34,10 @@ my solutions to leetcode problems
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0219-contains-duplicate-ii) |
 | [1020-longest-turbulent-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1020-longest-turbulent-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
