@@ -10,6 +10,7 @@ my solutions to leetcode problems
 | ------- |
 | [0053-maximum-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0053-maximum-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0954-maximum-sum-circular-subarray) |
+| [1020-longest-turbulent-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1020-longest-turbulent-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -20,6 +21,7 @@ my solutions to leetcode problems
 | ------- |
 | [0053-maximum-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0053-maximum-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0954-maximum-sum-circular-subarray) |
+| [1020-longest-turbulent-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1020-longest-turbulent-subarray) |
 ## Queue
 |  |
 | ------- |
@@ -28,4 +30,8 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0954-maximum-sum-circular-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [1020-longest-turbulent-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1020-longest-turbulent-subarray) |
 <!---LeetCode Topics End-->
