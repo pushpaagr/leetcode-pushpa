@@ -40,4 +40,12 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
