@@ -1,8 +1,5 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        # can't start with a closed parenthesis
-        # can't be a list of 1
-        # if the size is odd won't work
         if len(s) == 1:
             return False
 
