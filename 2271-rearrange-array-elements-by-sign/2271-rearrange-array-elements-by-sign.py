@@ -4,7 +4,6 @@ class Solution:
         negative = []
         combined = []
         for i in range(len(nums)):
-            # positive
             if nums[i] > 0:
                 positive.append(nums[i])
             else:
