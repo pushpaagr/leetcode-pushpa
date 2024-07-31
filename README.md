@@ -15,6 +15,7 @@ my solutions to leetcode problems
 | [0954-maximum-sum-circular-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/pushpaagr/leetcode-pushpa/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,6 +58,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0941-sort-array-by-parity) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/pushpaagr/leetcode-pushpa/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -69,4 +71,8 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0209-minimum-size-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/pushpaagr/leetcode-pushpa/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
