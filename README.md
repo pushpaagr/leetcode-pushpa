@@ -15,6 +15,7 @@ my solutions to leetcode problems
 | [0954-maximum-sum-circular-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pushpaagr/leetcode-pushpa/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -50,6 +51,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0020-valid-parentheses) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Stack
 |  |
 | ------- |
