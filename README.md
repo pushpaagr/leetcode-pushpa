@@ -11,6 +11,7 @@ my solutions to leetcode problems
 | [0053-maximum-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0219-contains-duplicate-ii) |
+| [0455-assign-cookies](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0941-sort-array-by-parity) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1020-longest-turbulent-subarray) |
@@ -67,11 +68,13 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0125-valid-palindrome) |
+| [0455-assign-cookies](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0941-sort-array-by-parity) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pushpaagr/leetcode-pushpa/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0941-sort-array-by-parity) |
 ## Binary Search
 |  |
@@ -85,4 +88,8 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pushpaagr/leetcode-pushpa/tree/master/2271-rearrange-array-elements-by-sign) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
