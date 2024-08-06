@@ -13,6 +13,7 @@ my solutions to leetcode problems
 | [0053-maximum-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0455-assign-cookies](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0455-assign-cookies) |
@@ -95,6 +96,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0724-find-pivot-index) |
