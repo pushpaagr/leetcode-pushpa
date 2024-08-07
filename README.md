@@ -9,6 +9,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0209-minimum-size-subarray-sum) |
@@ -59,6 +60,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0560-subarray-sum-equals-k) |
@@ -124,5 +126,6 @@ my solutions to leetcode problems
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0036-valid-sudoku) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
