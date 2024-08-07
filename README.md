@@ -12,6 +12,7 @@ my solutions to leetcode problems
 | [0036-valid-sudoku](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0238-product-of-array-except-self) |
@@ -94,6 +95,7 @@ my solutions to leetcode problems
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0792-binary-search) |
 ## Prefix Sum
@@ -127,5 +129,6 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
