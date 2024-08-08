@@ -137,4 +137,12 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
