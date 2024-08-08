@@ -9,6 +9,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0053-maximum-subarray) |
@@ -85,6 +86,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -94,6 +96,7 @@ my solutions to leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0941-sort-array-by-parity) |
 ## Binary Search
