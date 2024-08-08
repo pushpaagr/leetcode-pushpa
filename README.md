@@ -60,6 +60,7 @@ my solutions to leetcode problems
 | [0209-minimum-size-subarray-sum](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0567-permutation-in-string) |
 | [1020-longest-turbulent-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Hash Table
@@ -71,6 +72,7 @@ my solutions to leetcode problems
 | [0219-contains-duplicate-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -78,6 +80,7 @@ my solutions to leetcode problems
 | [0020-valid-parentheses](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0567-permutation-in-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Stack
 |  |
@@ -93,6 +96,7 @@ my solutions to leetcode problems
 | [0125-valid-palindrome](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0567-permutation-in-string) |
 | [0941-sort-array-by-parity](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0941-sort-array-by-parity) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pushpaagr/leetcode-pushpa/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
