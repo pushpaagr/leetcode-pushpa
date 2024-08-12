@@ -17,6 +17,7 @@ my solutions to leetcode problems
 | [0074-search-a-2d-matrix](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0219-contains-duplicate-ii) |
@@ -92,6 +93,7 @@ my solutions to leetcode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +162,7 @@ my solutions to leetcode problems
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
