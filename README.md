@@ -166,6 +166,7 @@ my solutions to leetcode problems
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0304-range-sum-query-2d-immutable) |
+| [0838-design-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0838-design-linked-list) |
 | [1023-time-based-key-value-store](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1023-time-based-key-value-store) |
 ## Matrix
 |  |
@@ -195,6 +196,7 @@ my solutions to leetcode problems
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0206-reverse-linked-list) |
+| [0838-design-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
