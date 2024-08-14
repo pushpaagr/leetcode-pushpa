@@ -40,6 +40,7 @@ my solutions to leetcode problems
 | [1020-longest-turbulent-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1020-longest-turbulent-subarray) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1582-design-browser-history](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1582-design-browser-history) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pushpaagr/leetcode-pushpa/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -106,6 +107,7 @@ my solutions to leetcode problems
 | [0150-evaluate-reverse-polish-notation](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0883-car-fleet) |
+| [1582-design-browser-history](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1582-design-browser-history) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,6 +174,7 @@ my solutions to leetcode problems
 | [0304-range-sum-query-2d-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0838-design-linked-list) |
 | [1023-time-based-key-value-store](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1023-time-based-key-value-store) |
+| [1582-design-browser-history](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1582-design-browser-history) |
 ## Matrix
 |  |
 | ------- |
@@ -201,9 +204,18 @@ my solutions to leetcode problems
 | [0021-merge-two-sorted-lists](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0838-design-linked-list) |
+| [1582-design-browser-history](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0206-reverse-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
