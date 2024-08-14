@@ -42,6 +42,7 @@ my solutions to leetcode problems
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1582-design-browser-history](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1582-design-browser-history) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pushpaagr/leetcode-pushpa/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -60,6 +61,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0954-maximum-sum-circular-subarray) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -108,6 +110,7 @@ my solutions to leetcode problems
 | [0739-daily-temperatures](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0883-car-fleet) |
 | [1582-design-browser-history](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1582-design-browser-history) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,6 +157,7 @@ my solutions to leetcode problems
 ## Simulation
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pushpaagr/leetcode-pushpa/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
