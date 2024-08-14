@@ -60,6 +60,7 @@ my solutions to leetcode problems
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0225-implement-stack-using-queues) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0954-maximum-sum-circular-subarray) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
@@ -107,6 +108,7 @@ my solutions to leetcode problems
 | [0042-trapping-rain-water](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0883-car-fleet) |
 | [1582-design-browser-history](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1582-design-browser-history) |
@@ -174,6 +176,7 @@ my solutions to leetcode problems
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0838-design-linked-list) |
