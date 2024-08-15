@@ -26,6 +26,7 @@ my solutions to leetcode problems
 | [0209-minimum-size-subarray-sum](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0455-assign-cookies](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0455-assign-cookies) |
@@ -126,6 +127,7 @@ my solutions to leetcode problems
 | [0141-linked-list-cycle](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0908-middle-of-the-linked-list) |
@@ -150,6 +152,7 @@ my solutions to leetcode problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1023-time-based-key-value-store) |
@@ -207,6 +210,7 @@ my solutions to leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0371-sum-of-two-integers) |
 ## Interactive
 |  |
