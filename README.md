@@ -86,6 +86,7 @@ my solutions to leetcode problems
 | [0076-minimum-window-substring](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0560-subarray-sum-equals-k) |
@@ -122,6 +123,7 @@ my solutions to leetcode problems
 | [0042-trapping-rain-water](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0567-permutation-in-string) |
@@ -213,6 +215,7 @@ my solutions to leetcode problems
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0908-middle-of-the-linked-list) |
