@@ -43,6 +43,7 @@ my solutions to leetcode problems
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1582-design-browser-history](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1582-design-browser-history) |
+| [1603-running-sum-of-1d-array](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pushpaagr/leetcode-pushpa/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -169,6 +170,7 @@ my solutions to leetcode problems
 | [0304-range-sum-query-2d-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0724-find-pivot-index) |
+| [1603-running-sum-of-1d-array](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1603-running-sum-of-1d-array) |
 ## Simulation
 |  |
 | ------- |
