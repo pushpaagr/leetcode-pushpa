@@ -1,10 +1,10 @@
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:
-        prefix = 0
+        prefix_sum = 0
         i = 0
         while i < len(nums):
-            prefix += nums[i]
-            nums[i] = prefix
+            prefix_sum += nums[i]
+            nums[i] = prefix_sum
             i += 1
         return nums
 
