@@ -262,4 +262,20 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1582-design-browser-history) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
