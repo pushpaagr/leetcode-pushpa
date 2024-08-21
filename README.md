@@ -92,6 +92,7 @@ my solutions to leetcode problems
 | [0138-copy-list-with-random-pointer](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0560-subarray-sum-equals-k) |
@@ -195,6 +196,7 @@ my solutions to leetcode problems
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0304-range-sum-query-2d-immutable) |
@@ -236,6 +238,7 @@ my solutions to leetcode problems
 | [0141-linked-list-cycle](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0908-middle-of-the-linked-list) |
@@ -251,6 +254,7 @@ my solutions to leetcode problems
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1582-design-browser-history) |
 ## Data Stream
 |  |
