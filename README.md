@@ -266,6 +266,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0226-invert-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -278,4 +279,9 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0226-invert-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
