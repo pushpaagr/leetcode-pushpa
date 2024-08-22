@@ -115,6 +115,7 @@ my solutions to leetcode problems
 | [0020-valid-parentheses](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0225-implement-stack-using-queues) |
@@ -265,6 +266,7 @@ my solutions to leetcode problems
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0783-search-in-a-binary-search-tree) |
@@ -272,6 +274,7 @@ my solutions to leetcode problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -280,6 +283,7 @@ my solutions to leetcode problems
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0783-search-in-a-binary-search-tree) |
