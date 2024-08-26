@@ -267,6 +267,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0110-balanced-binary-tree) |
@@ -281,6 +282,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0110-balanced-binary-tree) |
@@ -298,6 +300,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0110-balanced-binary-tree) |
@@ -311,6 +314,7 @@ my solutions to leetcode problems
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0783-search-in-a-binary-search-tree) |
