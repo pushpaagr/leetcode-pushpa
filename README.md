@@ -203,6 +203,7 @@ my solutions to leetcode problems
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0304-range-sum-query-2d-immutable) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0838-design-linked-list) |
 | [1023-time-based-key-value-store](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1023-time-based-key-value-store) |
 | [1582-design-browser-history](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1582-design-browser-history) |
@@ -264,6 +265,7 @@ my solutions to leetcode problems
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1582-design-browser-history) |
 ## Tree
 |  |
@@ -281,6 +283,7 @@ my solutions to leetcode problems
 | [0572-subtree-of-another-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -317,6 +320,7 @@ my solutions to leetcode problems
 | [0572-subtree-of-another-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -325,6 +329,7 @@ my solutions to leetcode problems
 | [0450-delete-node-in-a-bst](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0789-kth-largest-element-in-a-stream) |
 ## String Matching
 |  |
 | ------- |
@@ -333,4 +338,8 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0572-subtree-of-another-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
