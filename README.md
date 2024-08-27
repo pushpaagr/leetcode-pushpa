@@ -105,6 +105,7 @@ my solutions to leetcode problems
 | [0020-valid-parentheses](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0125-valid-palindrome) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1023-time-based-key-value-store) |
@@ -199,6 +200,7 @@ my solutions to leetcode problems
 | ------- |
 | [0146-lru-cache](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0838-design-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0838-design-linked-list) |
@@ -273,6 +275,7 @@ my solutions to leetcode problems
 | [0110-balanced-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0572-subtree-of-another-tree) |
@@ -288,6 +291,7 @@ my solutions to leetcode problems
 | [0110-balanced-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -296,6 +300,7 @@ my solutions to leetcode problems
 | [0100-same-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -306,6 +311,7 @@ my solutions to leetcode problems
 | [0110-balanced-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0572-subtree-of-another-tree) |
