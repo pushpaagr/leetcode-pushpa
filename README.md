@@ -42,6 +42,7 @@ my solutions to leetcode problems
 | [0954-maximum-sum-circular-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1020-longest-turbulent-subarray) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1127-last-stone-weight](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1127-last-stone-weight) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1582-design-browser-history](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1603-running-sum-of-1d-array) |
@@ -345,4 +346,5 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
