@@ -35,6 +35,7 @@ my solutions to leetcode problems
 | [0724-find-pivot-index](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0792-binary-search) |
+| [0878-shifting-letters](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0878-shifting-letters) |
 | [0883-car-fleet](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0941-sort-array-by-parity) |
@@ -108,6 +109,7 @@ my solutions to leetcode problems
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0567-permutation-in-string) |
+| [0878-shifting-letters](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0878-shifting-letters) |
 | [1023-time-based-key-value-store](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1023-time-based-key-value-store) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Stack
@@ -177,6 +179,7 @@ my solutions to leetcode problems
 | [0304-range-sum-query-2d-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0724-find-pivot-index) |
+| [0878-shifting-letters](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0878-shifting-letters) |
 | [1603-running-sum-of-1d-array](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1603-running-sum-of-1d-array) |
 ## Simulation
 |  |
