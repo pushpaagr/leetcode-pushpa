@@ -40,6 +40,7 @@ my solutions to leetcode problems
 | [0907-koko-eating-bananas](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0941-sort-array-by-parity) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0954-maximum-sum-circular-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1014-k-closest-points-to-origin) |
 | [1020-longest-turbulent-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1020-longest-turbulent-subarray) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1127-last-stone-weight) |
@@ -55,6 +56,7 @@ my solutions to leetcode problems
 | [0004-median-of-two-sorted-arrays](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0053-maximum-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0954-maximum-sum-circular-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +156,7 @@ my solutions to leetcode problems
 | [0455-assign-cookies](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0455-assign-cookies) |
 | [0883-car-fleet](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0941-sort-array-by-parity) |
+| [1014-k-closest-points-to-origin](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -227,6 +230,7 @@ my solutions to leetcode problems
 | [0002-add-two-numbers](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0371-sum-of-two-integers) |
+| [1014-k-closest-points-to-origin](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -346,5 +350,14 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1127-last-stone-weight) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
