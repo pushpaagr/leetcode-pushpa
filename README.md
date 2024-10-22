@@ -30,6 +30,7 @@ my solutions to leetcode problems
 | [0287-find-the-duplicate-number](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0304-range-sum-query-2d-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0724-find-pivot-index) |
@@ -202,6 +203,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
