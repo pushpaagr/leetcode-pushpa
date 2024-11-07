@@ -31,6 +31,7 @@ my solutions to leetcode problems
 | [0303-range-sum-query-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0724-find-pivot-index) |
@@ -56,6 +57,7 @@ my solutions to leetcode problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
@@ -101,6 +103,7 @@ my solutions to leetcode problems
 | [0142-linked-list-cycle-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0567-permutation-in-string) |
@@ -162,6 +165,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0015-3sum) |
+| [0347-top-k-frequent-elements](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0455-assign-cookies) |
 | [0883-car-fleet](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0941-sort-array-by-parity) |
@@ -360,6 +364,7 @@ my solutions to leetcode problems
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1127-last-stone-weight) |
@@ -370,5 +375,14 @@ my solutions to leetcode problems
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1014-k-closest-points-to-origin) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
