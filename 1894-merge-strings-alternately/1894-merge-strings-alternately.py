@@ -1,27 +1,12 @@
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
-        letter_array = []  
-        if len(word1) == len(word2):
-             i = 0
-             while i < len(word1):
-                letter_array.append(word1[i])
-                letter_array.append(word2[i])
-                i += 1
-        elif len(word1) < len(word2):
-            i = 0
-            while i < len(word1):
-                letter_array.append(word1[i])
-                letter_array.append(word2[i])
-                i += 1
-            letter_array.append(word2[i:])
-        else:
-            i = 0
-            while i < len(word2):
-                letter_array.append(word1[i])
-                letter_array.append(word2[i])
-                i += 1
-            letter_array.append(word1[i:])
-        
-        return "".join(letter_array)
+        result = []
+        i = 0
 
-        
+        while i < len(word1) and i < len(word2):
+            result.append(word1[i])
+            result.append(word2[i])
+            i += 1
+        result.extend(word1[i:])    
+        result.extend(word2[i:])    
+        return "".join(result)
