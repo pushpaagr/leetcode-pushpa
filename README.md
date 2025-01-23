@@ -49,6 +49,7 @@ my solutions to leetcode problems
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1582-design-browser-history](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1603-running-sum-of-1d-array) |
+| [1651-shuffle-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pushpaagr/leetcode-pushpa/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -125,6 +126,7 @@ my solutions to leetcode problems
 | [0812-rotate-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0878-shifting-letters) |
 | [1023-time-based-key-value-store](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1023-time-based-key-value-store) |
+| [1651-shuffle-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Stack
 |  |
