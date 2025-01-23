@@ -128,6 +128,7 @@ my solutions to leetcode problems
 | [1023-time-based-key-value-store](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1023-time-based-key-value-store) |
 | [1651-shuffle-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1894-merge-strings-alternately](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
@@ -164,6 +165,7 @@ my solutions to leetcode problems
 | [0567-permutation-in-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0941-sort-array-by-parity) |
+| [1894-merge-strings-alternately](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1894-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pushpaagr/leetcode-pushpa/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
