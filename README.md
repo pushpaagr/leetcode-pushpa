@@ -122,6 +122,7 @@ my solutions to leetcode problems
 | [0424-longest-repeating-character-replacement](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0678-valid-parenthesis-string) |
+| [0812-rotate-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0878-shifting-letters) |
 | [1023-time-based-key-value-store](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1023-time-based-key-value-store) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -359,6 +360,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
