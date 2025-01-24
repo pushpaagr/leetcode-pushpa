@@ -34,6 +34,7 @@ my solutions to leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0792-binary-search) |
@@ -216,6 +217,7 @@ my solutions to leetcode problems
 | [0011-container-with-most-water](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
