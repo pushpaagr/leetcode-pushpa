@@ -1,19 +1,18 @@
 class Solution:
     def reverseVowels(self, s: str) -> str:
-        vowles = {"a", "e", "i", "o", "u", "A", "E", "I", "O", "U"}
-
-        i = 0
+        vowels = {'a': 1, 'A':1, 'e': 1, 'E':1, 'i':1, 'I':1, 'o':1, 'O':1, 'u':1, 'U':1}
+        new_s = list(s)
         j = len(s) - 1
-        charArray = list(s)
+        i = 0
+
         while i < j:
-            print("i:", i)
-            print("j:", j)
-            if charArray[j] not in vowles:
-                j -= 1
-            elif charArray[i] not in vowles:
+            if new_s[i] not in vowels:
                 i += 1
-            else:
-                charArray[i], charArray[j] =  charArray[j], charArray[i]
+            if new_s[j] not in vowels:
+                j -= 1
+            if new_s[i] in vowels and new_s[j] in vowels:
+                new_s[i], new_s[j] = new_s[j], new_s[i]
                 i += 1
                 j -= 1
-        return "".join(charArray)
+        return "".join(new_s)
+            
