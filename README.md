@@ -277,6 +277,7 @@ my solutions to leetcode problems
 | [0143-reorder-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1582-design-browser-history) |
