@@ -167,6 +167,7 @@ my solutions to leetcode problems
 | [0908-middle-of-the-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pushpaagr/leetcode-pushpa/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -281,6 +282,7 @@ my solutions to leetcode problems
 | [0838-design-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/pushpaagr/leetcode-pushpa/tree/master/1582-design-browser-history) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
