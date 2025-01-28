@@ -18,6 +18,7 @@ my solutions to leetcode problems
 | [0042-trapping-rain-water](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0128-longest-consecutive-sequence) |
@@ -259,6 +260,7 @@ my solutions to leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0371-sum-of-two-integers) |
 ## Interactive
@@ -398,4 +400,8 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
