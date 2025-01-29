@@ -7,25 +7,12 @@ class Solution:
             return False
 
         for c in s:
-            if c == '(':
+            if c in valid.values():
                 chars.append(c)
-            elif c == '{':
-                chars.append(c)
-            elif c == '[':
-                chars.append(c)
-            elif chars and chars[-1] == valid[']'] and c == ']':
-                chars.pop()
-            elif chars and chars[-1] == valid[')'] and c == ')':
-                chars.pop()
-            elif chars and chars[-1] == valid['}'] and c == '}':
+            elif chars and chars[-1] == valid.get(c):
                 chars.pop()
             else:
                 return False
-            
-        
-        if not chars:
-            return True
-        else:
-            return False 
+        return not chars
 
 
