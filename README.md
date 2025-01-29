@@ -29,6 +29,7 @@ my solutions to leetcode problems
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0209-minimum-size-subarray-sum) |
+| [0216-combination-sum-iii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0287-find-the-duplicate-number) |
@@ -410,4 +411,5 @@ my solutions to leetcode problems
 | [0040-combination-sum-ii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
