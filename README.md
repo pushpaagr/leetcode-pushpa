@@ -144,6 +144,7 @@ my solutions to leetcode problems
 | [0094-binary-tree-inorder-traversal](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0739-daily-temperatures) |
@@ -236,6 +237,7 @@ my solutions to leetcode problems
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/pushpaagr/leetcode-pushpa/tree/master/0303-range-sum-query-immutable) |
