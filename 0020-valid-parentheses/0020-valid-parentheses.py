@@ -1,20 +1,31 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+        valid = {')':'(', '}':'{', ']':'['}
+        chars = []
+
         if len(s) == 1:
             return False
 
-        closeToOpen = {")": "(", "]": "[", "}":"{" }
-        stack = []
-
         for c in s:
-            if c in closeToOpen:
-                print(c)
-                print(closeToOpen[c])
-                if stack and stack[-1] == closeToOpen[c]:
-                    stack.pop()
-                else:
-                    return False
+            if c == '(':
+                chars.append(c)
+            elif c == '{':
+                chars.append(c)
+            elif c == '[':
+                chars.append(c)
+            elif chars and chars[-1] == valid[']'] and c == ']':
+                chars.pop()
+            elif chars and chars[-1] == valid[')'] and c == ')':
+                chars.pop()
+            elif chars and chars[-1] == valid['}'] and c == '}':
+                chars.pop()
             else:
-                stack.append(c)
+                return False
+            
+        
+        if not chars:
+            return True
+        else:
+            return False 
 
-        return True if not stack else False 
+
